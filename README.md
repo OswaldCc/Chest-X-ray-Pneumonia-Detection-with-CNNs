@@ -71,7 +71,7 @@ The scores can be visualized as below:
 
 ![avvgmodel](https://github.com/fredtush/dsc-text-classification-lab/blob/master/images/avvg.png)
 
-## Model Conclusion and Recommendation
+# Model Conclusion and Recommendation
 
 The sensitivity of detecting pneumonia by emergency medicine specialists and radiologists <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6377225/#:~:text=Sensitivity%20of%20plain%20chest%20radiography,radiation%20(9%2C%2010).">this paper</a> is 83%, therefore:
 
