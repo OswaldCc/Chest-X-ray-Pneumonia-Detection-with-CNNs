@@ -78,4 +78,4 @@ The sensitivity of detecting pneumonia by emergency medicine specialists and rad
 Given that the model has 98% sensitivity, interpretation of chest x-rays using this Convolutional Algorithm might help in improving the diagnostic accuracy of pneumonia.
 The algorithm is fast (36s) hence will increase efficiency considering the current understaffing in the Hospital.
 
-Based on the scores above the model can be deployed for use in the hospital.
+The model can be deployed for use in a hospital setting. However, this is from a purely technical standpoint as no medical expert or body has evaluated the model and signed it off as approved to be used in any hospital.
